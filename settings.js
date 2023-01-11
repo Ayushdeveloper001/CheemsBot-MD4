@@ -55,8 +55,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['918602306506'] //ur owner number
-global.ownername = "🦄Ayush" //ur owner name
-global.ytname = "YT: https://www.youtube.com/channel/UCLvcDqqcr56Uy_rhca0TpfA" //ur yt chanel name
+global.ownername = "Ayush" //ur owner name
+global.ytname = "YT: https://youtube.com/@ayushmuzik1037" //ur yt chanel name
 global.socialm = "insta: https://www.instagram.com/itzmathis_god/" //ur github or insta name
 global.location = "India, Madhya Pradesh" //ur location
 
@@ -67,10 +67,10 @@ global.botname = 'Cheems Bot MD V4' //ur bot name
 global.linkz = "https://www.youtube.com/channel/UCLvcDqqcr56Uy_rhca0TpfA" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/channel/UCLvcDqqcr56Uy_rhca0TpfA" //ur website to be displayed
 global.botscript = 'Wa.me/918602306506.' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "Cheems Bot Stickers\n\n\n\n\n\n\n\n\n\n\n🦄🦄🦄 " //ur sticker watermark packname
-global.author = "🦄Ayush" //ur sticker watermark author
+global.reactmoji = "❤️‍🔥" //ur menu react emoji
+global.themeemoji = "❤️‍🔥" //ur theme emoji
+global.packname = "Developer | Ayush " //ur sticker watermark packname
+global.author = "Ayush" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
